@@ -3,6 +3,8 @@
 
 Spring 2024
 
+In Collaboration with Philip Shahdadfar
+
 The classification project consists of two parts. The first part being
 the classification of three species of the Iris flower and the second part being the classification
 of handwritten numbers from 0-9. The classifications is performed by designing classifiers using
