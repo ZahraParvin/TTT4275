@@ -11,10 +11,11 @@ sets of labeled data, called training sets, and then let it classify an unlabele
 
 ## Course Content
 
-This course focuses on visual perception and image processing, covering key mathematical tools and operations such as matrices, linear/non-linear transformations, and frequency analysis, image formation, camera models, and geometry for single and multiple views. The course also includes feature extraction, pose estimation, and motion analysis.
-
-Also, it explores Localization and Mapping with SLAM, covering both indirect (feature-based) and direct methods, as well as sensor combinations like IMU and RGB-Depth. Finally, it discusses briefly object detection, recognition, and scene understanding, providing a comprehensive approach to visual systems.
-## Acknowledgements
+- (i) principal understanding of the concepts of estimation, detection and classification
+- (ii) detailed knowledge of the basic methods within the three topic as a gateway to more advanced techniques
+- (iii) practical understanding of how to model and solve a variety of real-world problems
+- (iv) knowledge of the importance of data for design and evaluation
+- (v) evaluate the quality of a chosen method for a given problem
 
  - [Course info](https://www.ntnu.edu/studies/courses/TTT4275#tab=omEmnet)
 
