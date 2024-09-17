@@ -1,7 +1,6 @@
 
 # TTT4275 - Estimation, Detection and Classification Project
-Spring 2024 Linear Classifier and KKN
-
+Spring 2024 
 ## About this Project
 In Collaboration with Philip Shahdadfar
 
